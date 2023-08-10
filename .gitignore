@@ -1,0 +1,6 @@
+node_modules/
+.env
+contatosAtualizados.json
+contatosUpdateds.json
+output.txt
+db.js
