@@ -2,7 +2,7 @@
 
 🚀 **Integração de Dados entre Tiny ERP e Sleekflow** 🛍️
 
-**Descrição:** Este projeto visa criar uma solução eficiente para a automação do processamento de pedidos em um sistema de e-commerce, utilizando um conjunto de tecnologias e integrações inteligentes que otimizam todo o fluxo de trabalho. Através de uma combinação estratégica de automação de APIs e manipulação de dados, nossa iniciativa busca simplificar cada etapa envolvida no rastreamento, atualização e gerenciamento de pedidos. Isso proporciona às equipes a capacidade de enfrentar a carga de trabalho com maior eficácia e foco.
+**Descrição:** O projeto, busca automatizar o fluxo de envio e atualização de dados de rastreamento através de APIs, conectando o e-commerce da Shopfy e a plataforma de contatos Sleekflow. O objetivo é otimizar a eficiência do processo, possibilitando o envio automatizado de mensagens aos clientes, proporcionando uma experiência aprimorada de acompanhamento de pedido.
 
 **Tecnologias Utilizadas:** Node.js, Axios, Dotenv, PostgreSQL, Sequelize
 
